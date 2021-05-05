@@ -44,7 +44,7 @@ const MainHeader = () => {
                 </div>
                 <div className='mt-5 col-md-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 order-sm-2 order-1   d-flex align-items-center justify-content-center'>
                     <div className='Image '>
-                        <img src={MyImage}></img>
+                        <img src={MyImage} alt="img"></img>
                     </div>
                 </div>
             </div>

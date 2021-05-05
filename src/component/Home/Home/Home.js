@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Header/Header';
 import Project from '../../Project/Project/Project'
-import Blog from '../../Blog/Blog'
+
 import Footer from '../../Shared/Footer/Footer'
 
 

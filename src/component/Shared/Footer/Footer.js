@@ -8,19 +8,23 @@ const Footer = ({color}) => {
         <section className='footer'>
                 <p>Copyright © Md. Sadiqur Rahman  All Rights Reserved</p>
                 <div >
-                    <a target = '_blank'
+                    <a a target = '_blank'
+                    rel = "noreferrer"
                     href = 'https://www.facebook.com/md.sadiqur.rahmanmondol.9/' >
                     <FontAwesomeIcon className='icon' icon={faFacebook} size='2x' color={color}/>
                     </a>
-                    <a target = '_blank'
+                    <a a target = '_blank'
+                    rel = "noreferrer"
                     href = 'https://www.mdsadiqurrahmanb@gmail.com' >
                     <FontAwesomeIcon className='icon' icon={faEnvelope} size='2x' color={color}/>
                     </a>
-                    <a target = '_blank'
+                    <a a target = '_blank'
+                    rel = "noreferrer"
                     href = 'https://github.com/MdSadiqMondol' >
                     <FontAwesomeIcon className='icon' icon={faGithub} size='2x' color={color}/>
                     </a>
-                    <a target = '_blank'
+                    <a a target = '_blank'
+                    rel = "noreferrer"
                     href = 'https://www.linkedin.com/in/md-sadiq-398213211/' >
                     <FontAwesomeIcon className='icon' icon={faLinkedin} size='2x' color={color}/>
                     </a>
